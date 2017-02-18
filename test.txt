@@ -1,0 +1,2 @@
+http://edition.cnn.com/services/rss/
+http://stackoverflow.com/questions/33511544/how-to-get-rid-of-beautifulsoup-user-warning
